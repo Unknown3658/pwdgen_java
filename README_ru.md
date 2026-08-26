@@ -119,7 +119,7 @@ src/main/java/com/pwdgen/
 │   ├── CSPRNG.java         # интерфейс CSPRNG
 │   ├── LinuxCSPRNG.java    # CSPRNG для Linux
 │   ├── MacCSPRNG.java      # CSPRNG для macOS
-│   ├── PlatformCSPRNG.java # платформа-агностичный CSPRNG
+│   ├── PlatformCSPRNG.java # выбор платформы CSPRNG
 │   └── WindowsCSPRNG.java  # CSPRNG для Windows
 └── password/
     ├── PasswordGenerator.java        # генерация паролей
