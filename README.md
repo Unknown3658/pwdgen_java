@@ -27,12 +27,8 @@ Anyway, who knows—test it out and let me know in the issues.
 
 ## Requirements
 
-Language Environment
+Language/Development Environment
 - Java 17
-- Maven 3.6+
-
-Development Environment
-- JDK 17
 - Maven 3.6+
 
 ## Building
