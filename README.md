@@ -5,7 +5,7 @@ Cryptographically secure password generator with no external dependencies.
 ## Disclaimer
 I am not a developer, nor have I ever been one.
 As a former SAST engineer and an information security professional, I wrote the program with a focus on security.
-The program was developed using a local LLM Qwen3.5-9B-DeepSeek-V4-Flash-Q6_K on a llama.cpp + OpenCode stack.
+The program was developed using a local LLM оmnicoder-9b-q5_k_m on a llama.cpp + OpenCode stack.
 The program passed all SonarQube security checks for C++.
 
 ## Development Principles
